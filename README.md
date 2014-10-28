@@ -1,10 +1,11 @@
 teamoppgave
 ===========
 
-Forrige gang gjorde vi disse: https://gist.github.com/keronsen/11370238  
-Denne gangen noe med Node.js eller bare javascript?  
+## Oppvarming
 
-5 oppgaver?
-Litt tid til å jobbe og forberedelsen
-Sjekke mail fra KE med notater.
-Frist for opplegget 31.10.2014?
+- Installer alle avhengighetene til dette prosjektet ved hjelp av `npm`
+- Start webserveren ved hjelp av `npm`
+
+## Oppgave 1
+
+Få skjema til å fungere slik at du blir møtt med en side som sender deg en hilsen ved trykk på "Send til server"-knappen.

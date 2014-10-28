@@ -1,0 +1,13 @@
+<h1>Oppgave 1</h1>
+
+{{#if name}}
+    <h2>Heeeeey {{name}}, great success!</h2>
+    <div>
+        <iframe width="840" height="630" src="//www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+{{else}}
+    <form action="/wrong/url" method="post">
+        Hva heter du? <input type="text" name="name" />
+        <button type="submit">Send til server</button>
+    </form>
+{{/if}}
