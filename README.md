@@ -1,5 +1,24 @@
-teamoppgave
-===========
+# takkdag
+
+Forrige gang gjorde vi disse: https://gist.github.com/keronsen/11370238  
+Denne gangen skal vi lære noe om [Node.js](http://nodejs.org/) 
+
+## agenda
+
+Tid | Plan 
+--- | ---
+12:00 - 12:20 | Presentasjon av @phillipj om Node.js
+12:20 - 12:30 | Pause
+12:30 - 13:30 | [learnyounode](https://github.com/rvagg/learnyounode)
+13:30 - 13:40 | Pause
+13:40 - 14:40 | Oppgaver
+14:40 - 14:50 | Pause
+14:50 - 15:30 | Konkurranse
+
+## oppstart
+For å sette igang med dette trenger man [Node.js](http://nodejs.org/).
+
+## Oppgave X
 
 ### Oppvarming
 
