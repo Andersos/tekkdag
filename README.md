@@ -11,7 +11,7 @@ Tid | Plan
 12:20 - 12:30 | Pause
 12:30 - 13:30 | [learnyounode](https://github.com/rvagg/learnyounode) (<a href="#Oppstart">se oppstart</a>)
 13:30 - 13:40 | Pause
-13:40 - 14:40 | <a href="#Oppgave">Oppgave: "Bruk Node som en web server"</a>
+13:40 - 14:40 | <a href="#Oppgave">Oppgave: "Bruk Node som en webserver"</a>
 14:40 - 14:50 | Pause
 14:50 - 15:30 | <a href="#Konkurranse">Konkurranse</a>
 
@@ -42,7 +42,7 @@ Her er også noen ressurser man kan bruke:
 - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <a name="Oppgave"></a>
-## Oppgave "Bruk Node som en web server"
+## Oppgave "Bruk Node som en webserver"
 
 ### Oppvarming
 
