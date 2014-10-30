@@ -53,7 +53,7 @@ Få skjema til å fungere slik at du blir møtt med en side som sender deg en hi
 
 ### Oppgave 2
 
-I disse oppgavene skal husets FINN-klient for node brukes, (lifestyle)[https://github.com/finn-no/lifestyle], klientens API står beskrevet i README.
+I disse oppgavene skal husets FINN-klient for node brukes, [lifestyle](https://github.com/finn-no/lifestyle), klientens API står beskrevet i README.
 API URLen som burde brukes er `http://api.finn.no/iad/`, ingen API-nøkkel er nødvendig.
 
 a) Vis hvor mange snøscooterannonser vi har på FINN akkurat nå
