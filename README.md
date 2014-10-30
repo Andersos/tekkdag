@@ -34,7 +34,7 @@ $ learnyounode
 
 Målet med disse oppgavene er at vi skal få en innføring.  
 Vi sikter på å komme oss helt ned til "HTTP CLIENT".  
-Om noen står fast hjelper vi til.  
+Om noen står fast, hjelper vi til.  
 Her er også noen ressurser man kan bruke:  
 - [Node API](http://nodejs.org/api/)
 - [NPM Doc](https://www.npmjs.org/doc/cli/npm.html)
@@ -67,7 +67,7 @@ API URLen som burde brukes er `http://api.finn.no/iad/`, ingen API-nøkkel er n�
 
 <a name="Konkurranse"></a>
 ## Konkurranse
-Avsluttningsvis skal vi skal prøve oss på en variant av [extreme_startup](https://github.com/rchatley/extreme_startup).  
+Avslutningsvis skal vi skal prøve oss på en variant av [extreme_startup](https://github.com/rchatley/extreme_startup).  
 Noen av dere har sikkert prøvd denne tidligere.  
 Denne gangen skal vi bruke en Node server.  
 Du kan prøve å starte helt selv eller bruke [denne](https://github.com/Andersos/extreme) som et utgangspunkt.
