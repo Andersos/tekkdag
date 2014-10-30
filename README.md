@@ -56,6 +56,6 @@ Få skjema til å fungere slik at du blir møtt med en side som sender deg en hi
 I disse oppgavene skal husets FINN-klient for node brukes, [lifestyle](https://github.com/finn-no/lifestyle), klientens API står beskrevet i README.
 API URLen som burde brukes er `http://api.finn.no/iad/`, ingen API-nøkkel er nødvendig.
 
-a) Vis hvor mange snøscooterannonser vi har på FINN akkurat nå
-b) Vis en liste av de siste snøscooterannonsene vi har på FINN akkurat nå
-BONUS) Lag objektsiden som viser snøscooterannonsen basert på en finnkode
+* Vis hvor mange snøscooterannonser vi har på FINN akkurat nå
+* Vis en liste av de siste snøscooterannonsene vi har på FINN akkurat nå
+* (BONUS) Lag objektsiden som viser snøscooterannonsen basert på en finnkode
