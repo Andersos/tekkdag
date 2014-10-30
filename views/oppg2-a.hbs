@@ -1,0 +1,17 @@
+<h1>Oppgave 2a</h1>
+
+<h2>Det finnes nå {{count}} snøscooterannonser på FINN</h2>
+
+<p><strong>Tips</strong></p>
+<ol>
+    <li>Antallet annonser forventes å bli gitt fra server til viewet i modellens <strong>count</strong> variabel</li>
+    <li>Alle kall på lifestyle-klienten er asynkrone, res.render(...) må kalles etter den asynkrone jobben er ferdig</li>
+    <li>
+        Skriv ut navnene til alle søkene i APIet:
+        <pre>
+    client.getSearches().map(function(singleSearch){
+        return singleSearch.title;
+    }).then(console.log);
+        </pre>
+    </li>
+</ol>

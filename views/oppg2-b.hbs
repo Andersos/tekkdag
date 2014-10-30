@@ -1,0 +1,15 @@
+<h1>Oppgave 2b</h1>
+
+<h2>De siste snøscooterannonsene på FINN:</h2>
+<ul>
+    {{#each ads}}
+        <li>{{title}}</li>
+    {{/each}}
+</ul>
+
+<p><strong>Tips</strong></p>
+<ol>
+    <li>Annonsene forventes å være slik de returneres fra lifestyle-klienten</li>
+    <li>Annonsene forventes å bli gitt fra server til viewet i modellens <strong>ads</strong> variabel</li>
+    <li>Alle kall på lifestyle-klienten er asynkrone, res.render(...) må kalles etter den asynkrone jobben er ferdig</li>
+</ol>
